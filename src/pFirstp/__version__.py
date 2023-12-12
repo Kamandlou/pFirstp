@@ -1,4 +1,4 @@
-__title__ = "pf1"
+__title__ = "pFirstp"
 __description__ = "simple Python package"
 __url__ = "https://github.com/kamandlou/pf1"
 __version__ = "0.1.0"
